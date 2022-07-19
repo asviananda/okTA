@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home_Page.unity
+    guid: ced0bb11dabb6ca4bb2e82bf605ae86a
+  - enabled: 1
+    path: Assets/Scenes/Hutan_Awal.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Salju_Awal.unity
+    guid: 79b27404df5be7f478f70cd627f5f78d
+  - enabled: 1
+    path: Assets/Scenes/Hutan_Awal_Terbakar.unity
+    guid: 34fc8e11120e80b4ebb7db5f5f7f9083
+  - enabled: 1
+    path: Assets/Scenes/Hutan_Kering.unity
+    guid: 29e7c27cd2cbe7541b666747e163e994
+  - enabled: 1
+    path: Assets/Scenes/Hutan_Terbakar.unity
+    guid: a03cd44dcfe41e44187a4b1869a5fa77
+  - enabled: 1
+    path: Assets/Scenes/Salju_Cair.unity
+    guid: 3cd57680b971b564dbce1f9d7b00c238
+  - enabled: 1
+    path: Assets/Scenes/Hutan_AmbilSampah.unity
+    guid: e02bec66b1f783f488a198d68f725fe5
+  - enabled: 1
+    path: Assets/Scenes/Hutan_NebangPohon.unity
+    guid: 3e264818d8249ae4d892df54c0c6c97a
+  - enabled: 1
+    path: Assets/Scenes/Hutan_BuangSampah.unity
+    guid: d1f4c337eae333b4ca0e362b1a6e7d68
+  - enabled: 1
+    path: Assets/Scenes/Kota_Awal.unity
+    guid: d590833e68ee95b4ab28c2478d3bb185
+  - enabled: 1
+    path: Assets/Scenes/Kota_Polusi.unity
+    guid: f407e55d6828eca40a0b8f11e5df6a9c
+  - enabled: 1
+    path: Assets/Scenes/Hutan_Akhir.unity
+    guid: 6128cd8df31501442ba1b6dbd54c80d7
+  m_configObjects:
+    WebXR.Settings: {fileID: 11400000, guid: 807be13e5691e0542bad8a66defbce50, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 33e554b0adc01904880db3749e3e3988,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bdbf8efaf0ce88d4cbf251ae12754aff,
+      type: 2}
